@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHubの管理下に置かないファイルのリスト
 
 # Java
@@ -15,3 +16,29 @@ target/
 # OS
 .DS_Store
 Thumbs.db
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+>>>>>>> 68f409b2e50ddc231293a8d446d2b76a865b088c

@@ -14,6 +14,7 @@ public class IntegerArray1 {
 		for (int number : numbers) {
 			System.out.println(number);
 		}
+		System.out.println("プログラム終了");
 
 	}
 
