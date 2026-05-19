@@ -1,0 +1,17 @@
+# GitHubの管理下に置かないファイルのリスト
+
+# Java
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# build
+bin/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
